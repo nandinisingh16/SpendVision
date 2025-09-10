@@ -23,7 +23,8 @@ SpendVision is a **Streamlit-powered expense tracker** with AI features. It help
 ###  Add Expense
 <img width="1362" height="580" alt="Screenshot 2025-09-10 165929" src="https://github.com/user-attachments/assets/d82712dd-2c54-4cad-8815-22f538d9fed0" />
 ###  Expense History
-<img width="1362" height="580" alt="Screenshot 2025-09-10 165929" src="https://github.com/user-attachments/assets/93809794-b3a3-4849-8fe3-ee40a37e3cbc" />
+<img width="1313" height="513" alt="Screenshot 2025-09-10 170013" src="https://github.com/user-attachments/assets/36908be3-8b55-44e1-8768-b90438691977" />
+
 ###  Reports
 <img width="974" height="568" alt="Screenshot 2025-09-10 170034" src="https://github.com/user-attachments/assets/06c9528d-0414-4b4d-8877-3a225ed6ae4c" />
 ---
