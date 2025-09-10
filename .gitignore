@@ -1,0 +1,41 @@
+# Ignore virtual environment
+venv/
+.env/
+ENV/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Databases and CSV (local data)
+*.sqlite3
+*.db
+*.csv
+
+# Models and large binaries
+*.joblib
+*.h5
+*.pkl
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VSCode / PyCharm / IDE settings
+.vscode/
+.idea/
+
+# Node/npm stuff (if React frontend is part of same repo)
+node_modules/
+build/
+dist/
